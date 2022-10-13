@@ -23,11 +23,11 @@ Both types of paths have their own set of animatable attributes that further mod
 
 | Property name           | Element type | Value type | Min |  Max  |
 | ------------------------| -------------|------------|-----|------ |
-| android:fillAlhpa       |<path>        |float       |0    |1      |
-| android:fillColor       |<path>        |integer     |---  |---    |
-| android:strokeAlpha     |<path>        |float       |0    |1      |
-| android:strokeColor     |<path>        |integer     |---  |---    |
-| android:strokeWidth     |<path>        |float       |0    |---    |
+| android:fillAlhpa       | \<path>      |float       |0    |1      |
+| android:fillColor       | \<path>      |integer     |---  |---    |
+| android:strokeAlpha     | \<path>      |float       |0    |1      |
+| android:strokeColor     | \<path>      |integer     |---  |---    |
+| android:strokeWidth     | \<path>      |float       |0    |---    |
 
 #### Example : Play, pause, record icon for music application
 We can represent each icon using a single path
